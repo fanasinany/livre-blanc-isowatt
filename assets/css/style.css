@@ -83,6 +83,10 @@ input:focus-visible {
 }
 .content .form-wrapper h3 {
   margin: 0;
+  color: #242f65;
+}
+.content .form-wrapper h3 > span {
+  color: #ff7400;
 }
 .content .form-wrapper form {
   display: flex;
