@@ -36,7 +36,7 @@ input:focus-visible {
   margin: 16px 0 0 0;
 }
 .header h1 {
-  background-color: #1679b7;
+  background-color: #09435b;
   width: 100%;
   text-align: center;
   padding: 16px;
@@ -58,14 +58,14 @@ input:focus-visible {
 }
 .content > p:first-of-type {
   margin: 0;
-  color: #242f65;
+  color: #0c3749;
   font-size: 28px;
   font-weight: 500;
   text-align: center;
 }
 .content > p:first-of-type > span {
   font-weight: 700;
-  color: #ff7400;
+  color: #ef2d0d;
 }
 .content > .description {
   text-align: center;
@@ -83,10 +83,10 @@ input:focus-visible {
 }
 .content .form-wrapper h3 {
   margin: 0;
-  color: #242f65;
+  color: #0c3749;
 }
 .content .form-wrapper h3 > span {
-  color: #ff7400;
+  color: #ef2d0d;
 }
 .content .form-wrapper form {
   display: flex;
@@ -97,7 +97,7 @@ input:focus-visible {
   margin-bottom: 16px;
 }
 .content .form-wrapper form > button {
-  background-color: #ff7400;
+  background-color: #ef2d0d;
   color: white;
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
